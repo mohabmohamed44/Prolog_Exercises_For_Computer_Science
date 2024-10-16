@@ -33,7 +33,7 @@ To run these Prolog applications, you need to have a Prolog interpreter installe
 2. Change to the project directory:
 
    ```
-   cd prolog-applications
+   cd Prolog_Exercises_For_Computer_Science
    ```
 
 ## Usage
